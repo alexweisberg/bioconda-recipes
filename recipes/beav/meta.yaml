@@ -33,6 +33,7 @@ requirements:
     - blast-legacy
     - bbmap
     - tqdm
+    - pftools
     - numpy >=1.19.4,<=1.22.1
     - biopython >=1.78,<=1.79
     - scikit-learn
